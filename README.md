@@ -1,4 +1,4 @@
-# personal_expenses_tracker
+# Personal_Expenses_Tracker
 ### You can fork it. But before that, please give a star (It's totally free).
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
 
